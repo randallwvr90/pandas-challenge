@@ -1,7 +1,6 @@
 # pandas-challenge
-
 ## Table of Contents
-* [My Thoughts](#my thoughts)
+* [My Thoughts](#mythoughts)
 
 ## My thoughts
 
