@@ -1,8 +1,14 @@
 # pandas-challenge
 ## Table of Contents
+* [The Challenge](#thechallenge)
 * [My Thoughts](#mythoughts)
 
-## 
+## The Challenge
+I chose to do the Heroes of Pymoli option.
+
+I liked this homework a lot! It was tough but I got the hang of things and was able to do most of the steps on my own by the end. I added some percentages to some of the summary data frames so that I could think about the trends that way - I did this with purchases by age and also with purchases by gender. I wanted to see if the purchases tracked with the number of players in each group or if some groups punched above their weight. It turns out that the purchases tracked the gender and age groups pretty closely so it doesn't seem like anyone really makes more than their share of purchases. See the "My Thoughs" section for more. 
+
+I hope this format is ok. I know I haven't turned in the previous homework assignments (I'm working on getting them done too!) so I might have missed something about how to do this. Please let me know if I need to do anything differently!
 
 ## My thoughts
 Here are some trends that I found:
